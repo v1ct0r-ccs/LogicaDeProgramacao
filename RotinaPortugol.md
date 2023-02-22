@@ -1,0 +1,28 @@
+# Rotina da manhã
+
+- Acordar
+- Olhar a hora
+- Levantar
+- Escovar os Dentes
+- Antes das 10h
+    - Trocar de roupa
+    - Pegar celular
+    - Pegar fone
+    - Pegar documento
+    - Pegar chave
+    - Colocar chave na maçaneta
+    - Girar a chave 360 graus para a direita 
+    - Abrir a porta
+    - Fechar a porta
+    - Colocar a chave na maçaneta
+    - Girar a chave 360 graus para a direita
+    - Descer as escadas
+    - Abrir a porta do Predio
+    - Caminhar
+    - Voltar depois das 10h
+- Depois das 10h
+    - Ir para a Sala
+    - Ligar o notebook
+    - Ligar a caixinha de som
+    - Ligar o segundo monitor
+    - Estudar
